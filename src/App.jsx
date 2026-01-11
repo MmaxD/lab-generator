@@ -140,7 +140,7 @@ className="w-full mt-4 bg-blue-700 hover:bg-blue-800 text-blue font-bold py-4 px
 </button>
 
 <div className="mt-6 p-3 bg-slate-50 rounded border border-slate-200">
-<p className="text-[10px] font-bold text-slate-400 uppercase mb-1">Print Instructions:</p>
+<p className="text-[10px] font-bold text-slate-400 uppercase mb-1">Print Instructions:<b>(important!)</b></p>
 <ol className="text-[10px] text-slate-500 list-decimal ml-3 space-y-1">
 <li>Click "Generate PDF"</li>
 <li>Set Destination to "Save as PDF"</li>
