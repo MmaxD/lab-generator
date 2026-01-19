@@ -175,10 +175,10 @@ color: black;
 }
 .border-frame {
 position: absolute;
-top: 12mm;
+top: 11mm;
 left: 12mm;
 right: 12mm;
-bottom: 12mm;
+bottom: 11mm;
 border: 1.5pt solid black;
 display: flex;
 flex-direction: column;
