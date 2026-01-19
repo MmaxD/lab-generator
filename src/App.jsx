@@ -195,7 +195,7 @@ justify-content: center;
 font-size :8pt;
 }
 .title-text {
-font-size: 50pt;
+font-size: 41pt;
 line-height: 1.3;
 text-decoration: underline;
 text-decoration-thickness: 2pt;
@@ -221,7 +221,7 @@ display: block;
 text-align: left;
 }
 .detail-line2 {
-font-size: 25pt;
+font-size: 20.83pt;
 line-height: 1.4;
 text-decoration: underline;
 text-decoration-thickness: 1.5pt;
